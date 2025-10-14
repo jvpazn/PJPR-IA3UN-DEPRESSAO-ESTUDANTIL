@@ -1,6 +1,6 @@
 # Dataset para Análise de Depressão em Estudantes
 
-Este repositório hospeda o dataset utilizado no meu projeto escolar.
+Este repositório hospeda o dataset utilizado no nosso projeto escolar.
 
 **Créditos:**
 O dataset original foi criado por Adil Shamim e está disponível no Kaggle.
